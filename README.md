@@ -1,0 +1,1 @@
+![logoname](SebastJava-logoname-03-converted.svg)
