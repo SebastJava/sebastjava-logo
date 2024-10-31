@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)"
-   sodipodi:docname="SebastJava-logoname-04-source.svg"
+   sodipodi:docname="SebastJava-logoname-05-source.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -27,8 +27,8 @@
      showborder="false"
      borderlayer="false"
      inkscape:zoom="2"
-     inkscape:cx="140"
-     inkscape:cy="120"
+     inkscape:cx="265"
+     inkscape:cy="60"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -77,7 +77,11 @@
            id="tspan5"
            x="1166.1792"
            y="1022.131"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.6667px;line-height:74.6659px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';fill:#202020;fill-opacity:1">SebastJava</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.6667px;line-height:74.6659px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';fill:#202020;fill-opacity:1"><tspan
+             style="fill:#663399;fill-opacity:1"
+             id="tspan1">Sebast</tspan><tspan
+             style="fill:#e75e22;fill-opacity:1"
+             id="tspan2">Java</tspan></tspan></text>
     </g>
   </g>
 </svg>
