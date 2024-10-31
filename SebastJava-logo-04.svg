@@ -7,7 +7,7 @@
    viewBox="0 0 120 120.00001"
    version="1.1"
    id="svg1"
-   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)"
    sodipodi:docname="SebastJava-logo-04.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,7 +25,15 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showborder="false"
-     borderlayer="false" />
+     borderlayer="false"
+     inkscape:zoom="4"
+     inkscape:cx="60"
+     inkscape:cy="60"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
   <defs
      id="defs1" />
   <g
@@ -50,11 +58,11 @@
            style="font-size:101.228px;line-height:101.228px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';letter-spacing:0px;display:none;fill:#ffffff;fill-opacity:0;stroke:none;stroke-width:0;stroke-linejoin:round"
            aria-label="S" />
         <path
-           style="fill:#0066cc;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:round"
+           style="fill:#663399;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:round"
            d="m 872.89862,761.97668 a 36.572266,36.572266 0 0 0 -19.03907,31.99024 36.572266,36.572266 0 0 0 11.83399,26.84961 v -13.20899 h 7.5625 l 1.63086,11.31836 c 2.14186,1.31807 4.46441,2.33952 6.96875,3.06446 2.50434,0.72493 5.20766,1.08789 8.10742,1.08789 3.29518,0 6.07788,-0.49387 8.35156,-1.48243 2.30663,-1.0215 4.06985,-2.42177 5.28907,-4.20117 1.21921,-1.7794 1.83007,-3.85598 1.83007,-6.22851 0,-2.20777 -0.52757,-4.15149 -1.58203,-5.83203 -1.05446,-1.68054 -2.8018,-3.14822 -5.24023,-4.4004 -2.40548,-1.28511 -5.69989,-2.40572 -9.88477,-3.36132 -4.94276,-1.15332 -9.1277,-2.6845 -12.55469,-4.59571 -3.39403,-1.94415 -5.98037,-4.28453 -7.75976,-7.01953 -1.74645,-2.76795 -2.62109,-5.93144 -2.62109,-9.49023 0,-3.75651 0.98969,-7.11638 2.96679,-10.08203 1.1318,-1.66988 2.5178,-3.13533 4.14063,-4.40821 z"
            id="bottom-color" />
         <path
-           style="fill:#ff5500;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:round"
+           style="fill:#e75e22;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:round"
            d="m 889.56659,764.60559 c -2.76795,0 -5.20554,0.49387 -7.31446,1.48242 -2.10891,0.95561 -3.75709,2.30629 -4.94336,4.05274 -1.18626,1.74644 -1.77929,3.80521 -1.77929,6.17773 0,2.07596 0.52757,3.88877 1.58203,5.4375 1.0874,1.54874 2.83279,2.91726 5.23828,4.10352 2.43843,1.15331 5.68521,2.24021 9.73828,3.26171 7.57891,1.87826 13.31286,4.66292 17.20117,8.35352 3.92126,3.65765 5.88086,8.1877 5.88086,13.5918 0,3.85535 -1.03732,7.28263 -3.11328,10.28125 -1.75681,2.50973 -4.13518,4.55319 -7.11914,6.14258 a 36.572266,36.572266 0 0 0 22.06641,-33.52344 36.572266,36.572266 0 0 0 -14.50196,-29.15235 v 14.22266 h -7.5625 l -1.63281,-10.28125 c -1.48283,-1.18627 -3.32739,-2.174 -5.53516,-2.96484 -2.20777,-0.79084 -4.94285,-1.18555 -8.20507,-1.18555 z"
            id="top-color" />
       </g>
