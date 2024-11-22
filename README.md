@@ -1,4 +1,4 @@
-![logoname](SebastJava-logoname-03-converted.svg)
+![logoname](SebastJava-logoname-04.svg)
 
 ---
 
