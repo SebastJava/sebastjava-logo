@@ -1,4 +1,8 @@
-![logoname](SebastJava-logoname-04.svg)
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="SebastJava-logoname-dark.svg">
+ <source media="(prefers-color-scheme: light)" srcset="SebastJava-logoname.svg">
+ <img alt="SebastJava" src="SebastJava-logoname.svg">
+</picture>
 
 ---
 
