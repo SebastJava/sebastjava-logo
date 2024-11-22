@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)"
-   sodipodi:docname="SebastJava-logoname-04-source.svg"
+   sodipodi:docname="00-SebastJava-logoname-04-source.svg"
    inkscape:export-filename="SebastJava-logoname-04.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -45,10 +45,10 @@
      id="layer1"
      transform="translate(-837.61928,-814.25598)">
     <g
-       id="g1"
+       id="logoname"
        transform="translate(0,-120)">
       <g
-         id="g4"
+         id="logo"
          transform="matrix(1.5038706,0,0,1.5038706,-441.47487,-199.76652)">
         <circle
            style="display:inline;fill:#ffffff;fill-opacity:0;stroke:none;stroke-width:0;stroke-linejoin:round"
@@ -75,7 +75,7 @@
          style="font-size:74.6667px;line-height:74.6659px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:1;fill:#202020;fill-opacity:1;stroke-width:0;stroke-linejoin:round"
          x="1166.1792"
          y="1022.131"
-         id="text5"><tspan
+         id="SebastJava"><tspan
            sodipodi:role="line"
            id="tspan5"
            x="1166.1792"
