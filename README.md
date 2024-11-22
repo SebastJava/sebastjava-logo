@@ -20,4 +20,4 @@ Et puis ça m'aura pris encore au moins une autre demi-journée, à réaliser ce
 
 ### SebastJava, un nom trouvé en 2 secondes
 
-SebastJava, c'est mon nom dans le cyberespace. À l'origine, c'était, et c'est encore, mon adresse courriel: sebastjava@hotmail.ca. C'est un nom improvisé en deux secondes, dans le trafic et sans avoir eu le temps d'y réfléchir. C'était en 2012. C'est la contraction de mon prénom et de JavaScript. Et puis Java, c'est une grande île volcanique en Indonésie. C'est un nom choisi à la course, mais je le trouve assez joli et je le garde.
+SebastJava, c'est mon nom dans le cyberespace. C'est un nom improvisé en deux secondes, dans le trafic et sans avoir eu le temps d'y réfléchir. C'était en 2012. C'est la contraction de mon prénom et de JavaScript. Et puis Java, c'est une grande île volcanique en Indonésie. C'est un nom choisi à la course, mais je le trouve assez joli et je le garde.
